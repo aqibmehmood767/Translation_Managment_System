@@ -1,0 +1,13 @@
+package com.example.TranslationManagementSystem;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TranslationManagementSystemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TranslationManagementSystemApplication.class, args);
+	}
+
+}
